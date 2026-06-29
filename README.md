@@ -29,7 +29,7 @@
 ### Tools
 - Git
 - GitHub
-- VS Code
+- PyCharm
 
 ## 📂 Featured Projects
 
